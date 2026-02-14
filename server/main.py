@@ -32,6 +32,9 @@ def _init_firebase() -> None:
 async def lifespan(app: FastAPI):
     """Startup / shutdown lifecycle."""
     _init_firebase()
+    # Pre-warm embeddings model in background
+    from modules.rag import get_embeddings
+    get_embeddings()
     yield
 
 
