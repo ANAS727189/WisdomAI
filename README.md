@@ -1,8 +1,8 @@
-# SargamAI
+# SangamAI
 
 **Where content meets clarity.**
 
-SargamAI is a production-grade Retrieval-Augmented Generation (RAG) application that transforms PDFs, YouTube videos, and CSV datasets into interactive, conversational knowledge bases. Built with **FastAPI** and **Next.js**, powered by state-of-the-art language models via OpenRouter, it features a modern terminal-inspired UI with PDF split-view, intelligent multi-modal querying, persistent chat history, and context-aware responses.
+SangamAI is a production-grade Retrieval-Augmented Generation (RAG) application that transforms PDFs, YouTube videos, and CSV datasets into interactive, conversational knowledge bases. Built with **FastAPI** and **Next.js**, powered by state-of-the-art language models via OpenRouter, it features a modern terminal-inspired UI with PDF split-view, intelligent multi-modal querying, persistent chat history, and context-aware responses.
 
 [![Python](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/fastapi-latest-green.svg)](https://fastapi.tiangolo.com/)
@@ -65,7 +65,7 @@ SargamAI is a production-grade Retrieval-Augmented Generation (RAG) application 
 
 ## 🏗 Architecture
 
-OmniMind implements a modern, production-ready full-stack RAG architecture:
+SangamAI implements a modern, production-ready full-stack RAG architecture:
 
 ```
 ┌───────────────────────────────────────────────────────────────────┐
