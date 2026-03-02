@@ -9,6 +9,16 @@ SangamAI is a production-grade Retrieval-Augmented Generation (RAG) application 
 [![Next.js](https://img.shields.io/badge/next.js-16.1-black.svg)](https://nextjs.org/)
 [![LangChain](https://img.shields.io/badge/langchain-1.2+-green.svg)](https://python.langchain.com/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+---
+---
+
+## Demo
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=gIDFtFy5BCI">
+    <img src="https://img.youtube.com/vi/gIDFtFy5BCI/maxresdefault.jpg" width="80%">
+  </a>
+</p>
 
 ---
 
